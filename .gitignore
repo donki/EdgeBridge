@@ -1,0 +1,9 @@
+# Secreto compartido con la extensión: lo crea `eb.py serve` (Tools §3)
+extension/token.txt
+# Registro de órdenes
+*.log
+__pycache__/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
